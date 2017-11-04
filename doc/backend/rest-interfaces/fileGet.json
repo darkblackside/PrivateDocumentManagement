@@ -1,0 +1,38 @@
+{
+	"type":"file",
+	"folder":"201ccc39-9144-4934-9ea2-dbb19328f5e9",
+	"file":"test.pdf",
+	"id":"201ccc39-9144-4934-9ea2-dbb19328f5e8",
+	"creationDate":"Wednesday 24 Oct 2017 08:17:12",
+	"changeDate":"Wednesday 24 Oct 2017 08:17:12",
+	"effectivePermissions": 
+	[
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"owner", //Possible: owner, fullwrite, upload, read, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		},
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"reader", //Possible: owner, fullwriter, uploader, reader, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		}
+	],
+	"exactPermissions": 
+	[
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"owner", //Possible: owner, fullwrite, upload, read, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		},
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"reader", //Possible: owner, fullwriter, uploader, reader, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		}
+	]
+}

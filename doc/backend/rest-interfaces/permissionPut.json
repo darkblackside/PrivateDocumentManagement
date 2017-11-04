@@ -1,0 +1,5 @@
+{
+	"permission":"owner", //Possible: owner, fullwriter, uploader, reader, none | owner cannot be changed
+	"id":"98d118cf-38a1-4c5e-bfe7-231aab053261",
+	"inheritInChilds":true //Use right for child-folders (only if file is empty)
+}

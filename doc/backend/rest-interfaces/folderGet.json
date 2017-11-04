@@ -1,0 +1,31 @@
+{
+	"type":"folder",
+	"name":"test",
+	"id":"d23c1228-21a1-4808-9dd6-c746967f73a8",
+	"parent":"d23c1228-21a1-4808-9dd6-c746967f73a9",
+	"children":
+	[
+		"uuid1",
+		"uuid2"
+	],
+	"files":
+	[
+		"uuid1",
+		"uuid2"
+	],
+	"effectivePermissions": 
+	[
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"owner", //Possible: owner, fullwrite, upload, read, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		},
+		{
+			"type":"folderPermission",
+			"user":"bjmer001",
+			"permission":"reader", //Possible: owner, fullwriter, uploader, reader, none
+			"id":"98d118cf-38a1-4c5e-bfe7-231aab053261"
+		}
+	]
+}

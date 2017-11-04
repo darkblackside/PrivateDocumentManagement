@@ -1,0 +1,10 @@
+{
+	"type":"folders",
+	"folder":"", //ID of the parent folder, empty if root
+	"folders":
+	[
+		"uuid1",
+		"uuid2",
+		"uuid3"
+	]
+}

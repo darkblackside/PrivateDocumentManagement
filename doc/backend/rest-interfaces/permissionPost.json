@@ -1,0 +1,8 @@
+{
+	"type":"folderPermission", //or filePermission
+	"folderOrFile":"uuid of folder or file",
+	"user":"bjmer001",
+	"group":"", //Not set yet, maybe for further releases
+	"permission":"fullwriter", //Possible: owner, fullwriter, uploader, reader, none | owner cannot be set
+	"inheritInChilds":true //Use right for child-folders (only if file is empty)
+}
